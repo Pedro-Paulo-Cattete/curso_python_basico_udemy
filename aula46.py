@@ -1,7 +1,6 @@
+# For com range, continue e break
 
-
-
-for i range(10):
+for i in range(10):
     if i == 2:
         print('i é 2, pulando...')
         continue
